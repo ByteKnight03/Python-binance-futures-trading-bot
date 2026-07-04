@@ -198,27 +198,38 @@ py test_client.py
 
 ## 📸 Screenshots
 
-Create a `screenshots` folder and include screenshots of:
+### 💰 Account Balance
+![Account Balance](screenshots/balance.png)
 
-- Account Balance
-- Account Summary
-- Live Price
-- Buy Order Confirmation
-- Open Positions
-- Open Orders
+---
 
-Example:
+### 📊 Account Summary
+![Account Summary](screenshots/summary.png)
 
-```text
-screenshots/
-├── balance.png
-├── summary.png
-├── price.png
-├── buy.png
-├── positions.png
-└── open-orders.png
-```
+---
 
+### 📈 Live Price
+![Live Price](screenshots/price.png)
+
+---
+
+### 🟢 Buy Order Confirmation
+![Buy Order Confirmation](screenshots/buy.png)
+
+---
+
+### 📌 Open Positions
+![Open Positions](screenshots/positions.png)
+
+---
+
+### 📋 Open Orders
+![Open Orders](screenshots/open-orders.png)
+
+---
+
+### 👤 Account Details
+![Account Details](screenshots/account.png)
 ---
 
 ## 📚 Learning Outcomes
